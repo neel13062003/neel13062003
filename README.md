@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Competitve Programming**
 
-- 🌱 I’m currently learning **MERN Stack Development, Competitve Programming**
-
 - 👯 I’m looking to collaborate on **Real Life Problem Solving Ideas**
 
 - 🤝 I’m looking for help with **Learn DataStructures & Algorithm**
