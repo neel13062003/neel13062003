@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Learn DataStructures & Algorithm**
 
-- 👨‍💻 My Portfolio [https://neelnsoni13.netlify.app/](https://neelnsoni13.netlify.app/)
+- <!--👨‍💻 My Portfolio [https://neelnsoni13.netlify.app/](https://neelnsoni13.netlify.app/)-->
 
 - 💬 Ask me about **Problem Solving Ideas**
 
