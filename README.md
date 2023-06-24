@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neel13062003" alt="neel13062003" /></a> </p>
 
-- 🔭 I’m currently working on **Competitve Programming**
-
-- 👯 I’m looking to collaborate on **Real Life Problem Solving Ideas**
-
-- 🤝 I’m looking for help with **Learn DataStructures & Algorithm**
-
-- <!--👨‍💻 My Portfolio [https://neelnsoni13.netlify.app/](https://neelnsoni13.netlify.app/)-->
-
-- 💬 Ask me about **Problem Solving Ideas**
-
 - 📫 How to reach me **neelnsoni13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
