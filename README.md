@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **neelnsoni13@gmail.com**
 - Portfolio = **https://neelnsoni13.netlify.app/**
+- Resume = **https://drive.google.com/file/d/1ypU6ZyqouLITHdT289PsofuNb6IAvB2M/view?usp=sharing**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
