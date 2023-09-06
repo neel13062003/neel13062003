@@ -10,6 +10,7 @@
 - Resume = **https://drive.google.com/file/d/17LE_SzrmRqcdlzhDcAc2dhq5k_MFhQSf/view**
 - Email = neelnsoni13@gmail.com
 - PhoneNo = +91 7874866543
+- YouTube = **https://www.youtube.com/@neelsoni1313/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
