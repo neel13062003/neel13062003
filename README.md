@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **neelnsoni13@gmail.com**
 - Portfolio = **https://neelnsoni13.netlify.app/**
-- Resume = **https://drive.google.com/file/d/17LE_SzrmRqcdlzhDcAc2dhq5k_MFhQSf/view**
+- Resume = **[https://drive.google.com/file/d/17LE_SzrmRqcdlzhDcAc2dhq5k_MFhQSf/view](https://drive.google.com/file/d/1SnANHioBKD7H9oJTQHKgfTe9X8OBaREi/view?usp=sharing)**
 - Email = neelnsoni13@gmail.com
 - PhoneNo = +91 7874866543
 - YouTube = **https://www.youtube.com/@neelsoni1313/**
