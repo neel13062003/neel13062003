@@ -15,6 +15,13 @@
 <p align="left">
 </p>
 
+<p>I'm Neel Nikunjkumar Soni, deeply interested in entrepreneurial ideas, business ideas, advanced technology, 
+innovation, human psychology, scientific research, space science, green energy - renewable energy, improving the human world is more better & the growth of everyone. 
+
+
+✉️ 𝗘𝗺𝗮𝗶𝗹: neelnsoni13@gmail.com 
+📞 𝗣𝗵𝗼𝗻𝗲: +𝟵𝟭 𝟳𝟴𝟳𝟰𝟴𝟲𝟲𝟱𝟰𝟯</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neel13062003&show_icons=true&locale=en&layout=compact" alt="neel13062003" /></p>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neel13062003&show_icons=true&locale=en" alt="neel13062003" /></p-->
